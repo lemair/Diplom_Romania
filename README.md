@@ -16,6 +16,8 @@ Java gradle project dependecies, which must be in file build.gradle:
   compile 'com.zavtech:morpheus-core:0.9.21'
   compile 'org.datavec:datavec-api:1.0.0-beta4'
   compile 'org.datavec:datavec-local:1.0.0-beta4'
+  
+  
 Python project:
 import pandas as pd
 import numpy as np
