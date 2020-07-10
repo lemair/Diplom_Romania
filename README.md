@@ -29,9 +29,11 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import random
+
 from sklearn.preprocessing import MinMaxScaler
 from keras.models import Sequential
 from keras.layers import Dense,Dropout
+
 Installation:
 First in pycharm terminal write:
 pip install notebook
